@@ -4,9 +4,10 @@
 *Estoque
 *Inventario
 *Fornecedores
-*Nfe
+*Nfe (Entrada e Emissão)
 *Cadastro Cliente
 *Revenda
+*Fluxo de Caixa
 
 [VENDAS]
 
@@ -18,13 +19,25 @@
 *Brides (Com ou Sem)
 *Desconto (De 0 a 20%)
 *ID
+*Fiado
 
 [Estoque]
 
 *ID
-*Produto
+*Produto (Acessorios, Artigos de Pesca, Medicamentos, Nutrição)
 *Marca/Fornecedore
 *Qtd Total
 *Qtd a Grael (kg)
 *Valor a Grael (kg)
 *valor Total
+*Data de validade
+*Entrada e Saida
+*Trocas
+
+[Inventario]
+
+*Lucro Liquido
+*Lucro Bruto
+*Dispesas (Estoque, Agua, Luz, Telefone, Internet, Aluguel)
+*Media (Semanal, Mensal e Anual)
+
