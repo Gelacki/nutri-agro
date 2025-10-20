@@ -1,0 +1,30 @@
+[MENU]
+
+*Vendas
+*Estoque
+*Inventario
+*Fornecedores
+*Nfe
+*Cadastro Cliente
+*Revenda
+
+[VENDAS]
+
+*Produto
+*Valor Total
+*Valo a Grael (kg)
+*Adicionar Produtos
+*Compras (Cartão/Debito/Credito, Pix e Dinheiro)
+*Brides (Com ou Sem)
+*Desconto (De 0 a 20%)
+*ID
+
+[Estoque]
+
+*ID
+*Produto
+*Marca/Fornecedore
+*Qtd Total
+*Qtd a Grael (kg)
+*Valor a Grael (kg)
+*valor Total
