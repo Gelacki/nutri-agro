@@ -41,3 +41,4 @@
 *Dispesas (Estoque, Agua, Luz, Telefone, Internet, Aluguel)
 *Media (Semanal, Mensal e Anual)
 
+Banco de dados para
